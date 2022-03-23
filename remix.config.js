@@ -11,5 +11,5 @@ module.exports = {
   // appDirectory: "app",
   // assetsBuildDirectory: "public/build",
   // serverBuildPath: "api/index.js",
-  // publicPath: "/build/",
+  publicPath: "https://og-test-dschnurr.vercel.app/build/",
 };
