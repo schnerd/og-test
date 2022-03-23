@@ -12,11 +12,11 @@ export const meta: MetaFunction = () => {
     "og:image:height": "1024",
     "og:image:alt": "page C og-image alt",
     "og:title": "page C og-title",
-    "og:description": "page C og-description",
+    "og:description": "og-C h̷̨̢̩̭̘͖͎̲̰̘͎̥̑͛̽̃̈́̀̔͂̏͐̍̕͘͝ͅě̸͓̽̊́̄̇́̀͂̈́̃̈́̚͝ļ̷̢͖̲̱͓̣̯̕ļ̴̫̬̘̣̹̯͚̗̝̩̥́̄͆̎̾̓͊̇̓͘͝ơ̸͎̥̱̮̲̬̪͇͙̪̫̜̤͑̆̉̓̌͛̊͋͂̒̓͋̚͝ͅ  👍 漢字",
     "twitter:card": "summary_large_image",
     "twitter:site": "openai",
     "twitter:title": "page C twitter-title",
-    "twitter:description": "page C twitter-description",
+    "twitter:description": "tw-C h̷̨̢̩̭̘͖͎̲̰̘͎̥̑͛̽̃̈́̀̔͂̏͐̍̕͘͝ͅě̸͓̽̊́̄̇́̀͂̈́̃̈́̚͝ļ̷̢͖̲̱͓̣̯̕ļ̴̫̬̘̣̹̯͚̗̝̩̥́̄͆̎̾̓͊̇̓͘͝ơ̸͎̥̱̮̲̬̪͇͙̪̫̜̤͑̆̉̓̌͛̊͋͂̒̓͋̚͝ͅ  👍 漢字",
     "twitter:image": img,
     "twitter:image:alt": "page C twitter-image alt",
   };
